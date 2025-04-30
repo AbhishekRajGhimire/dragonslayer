@@ -1,0 +1,13 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+# Godot exports and builds
+.export/
+export.cfg
+export_presets.cfg
+
+# Mono C# projects (if using Godot Mono)
+mono/
+
+# Temporary files
+*.tmp
