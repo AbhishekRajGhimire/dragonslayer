@@ -15,7 +15,7 @@ A 2D platformer game built using [Godot Engine](https://godotengine.org/).
 3. Run or export the game
 
 ## 🧠 Made by
-Abhishek Raj Ghimire
+Avi
 
 Credits for assets:
 This pack is a combination of repackaged, remixed and original assets. Make sure to check out the original creators of the sprite assets - analogStudios_ and RottingPixels - they do amazing things.
