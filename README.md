@@ -8,6 +8,7 @@ A 2D platformer game built using [Godot Engine](https://godotengine.org/).
 - Smooth platform movement
 - Exported to Web & Windows
 - adding and implement more features as i learn.
+- Upcoming features ( Intro screen, Multiplayer options with local wifi and added map area.)
 
 ## 📦 How to Run
 1. Clone the repo
