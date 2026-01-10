@@ -33,3 +33,6 @@ Credits from where i learned till my first commit:
 Brackeys:
 https://youtu.be/LOhfqjmasi0?si=8hhPE4ZptcnC8hX6
 [brakeys.com](http://brackeys.com/)
+
+#next updates in the project repo
+1. Images in the readme.md
