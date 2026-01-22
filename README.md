@@ -2,7 +2,7 @@
 
 A 2D platformer game built using [Godot Engine](https://godotengine.org/).
 
-## 🎮 Features
+## Game Features
 - Pixel-art characters and monsters
 - Coins, fruits, and score tracking
 - Smooth platform movement
@@ -10,7 +10,7 @@ A 2D platformer game built using [Godot Engine](https://godotengine.org/).
 - adding and implement more features as i learn.
 - Upcoming features ( Intro screen, Multiplayer options with local wifi and added map area.)
 
-## 📦 How to Run
+## How to Run
 1. Clone the repo
 2. Open `project.godot` in Godot 4+
 3. Run or export the game
@@ -28,7 +28,7 @@ The run(demo):
 
 
   
-## 🧠 Made by
+## Made by
 Avi
 
 Credits for assets:
